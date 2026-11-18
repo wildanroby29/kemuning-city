@@ -1,0 +1,5 @@
+out/
+shots/
+*.log
+.playwright-mcp/
+node_modules/
